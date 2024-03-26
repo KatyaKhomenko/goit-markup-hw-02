@@ -103,7 +103,9 @@ body {
 
 
 
-.features {}
+.features {
+    background-color: #FFFFFF;
+}
 
 .features-item {}
 
@@ -113,6 +115,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .features-item-title {
@@ -123,7 +126,7 @@ body {
 }
 
 .team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .team-head {
@@ -160,6 +163,7 @@ body {
 }
 
 .main {
+   
 
 }
 
@@ -170,9 +174,11 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    
 }
 
 .main-item {
+    
 
 }
 
