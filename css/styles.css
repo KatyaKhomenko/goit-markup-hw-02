@@ -19,15 +19,16 @@ body {
 .header-nav {}
 
 .header-title {
+    font-family: Raleway;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
 
-.accent {
+.header-title .accent {
     color: #2e2f42;
 }
 
@@ -48,7 +49,7 @@ body {
 }
 
 .header-address {
-    font-size: normal;
+    font-style: normal;
 }
 
 .header-address-item {}
