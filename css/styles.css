@@ -9,7 +9,7 @@ a {
 }
 
 body {
-    font-family: "Roboto", "Raleway" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -48,7 +48,8 @@ body {
 .header-menu-link {
     color: #2e2f42;
 }
-.header-menu-link:hover, .header-menu-link:focus {
+.header-menu-link:hover,
+.header-menu-link:focus {
     color: #404bbf;
 }
 
