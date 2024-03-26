@@ -139,7 +139,9 @@ body {
 
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF
+}
 
 .team-subtitle {
     font-weight: 500;
@@ -148,7 +150,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #FFFFFF;
+    
 }
 
 .team-title {
@@ -157,11 +159,13 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    background-color: #FFFFFF;
+    text-transform: capitalize;
+    
 }
 
 .team-img {
-    background-color: #FFFFFF;
+    
+
 }
 
 .main {
