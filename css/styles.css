@@ -71,7 +71,7 @@ body {
     color:#404BBF;
 }
 
-.section-1 {
+.section {
     background-color: #2e2f42;
 }
 
@@ -93,7 +93,15 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    cursor: pointer;
 }
+
+.main-btn:hover,
+.main-btn:focus {
+    background-color: #404BBF;
+}
+
+
 
 .features {}
 
